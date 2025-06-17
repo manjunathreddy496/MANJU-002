@@ -4,15 +4,15 @@ INTERN ID:CITS0D85
 DOMAIN:SOFTWARE DEVLOPMENT
 DURATION:6WEEKS
 MENTOR NAME: NEELA SANNTOSH
+# MENTION: I USED CHAT GPTS FOR GARTERING RELAVENT INFORMATION FOR THIS TASK 
 #I USE CODE FOR RUN THE OPERATIONS
 #TOOLS I HAVE USED
-### ✅ **Tools Required for API Development**
+#Tools Required for API Development**
 
 Here’s a breakdown of the essential tools and technologies needed for developing APIs (Application Programming Interfaces):
 
 ---
-
-### 🔧 **1. Programming Languages**
+. Programming Languages**
 
 These are used to write the API logic.
 
@@ -22,9 +22,7 @@ These are used to write the API logic.
 * **PHP (Laravel)** – Good for web-based APIs.
 * **Go (Golang)** – High performance, efficient for large-scale APIs.
 
----
-
-### 📦 **2. Frameworks**
+--. Frameworks**
 
 Frameworks help structure the API and speed up development.
 
@@ -35,7 +33,7 @@ Frameworks help structure the API and speed up development.
 
 ---
 
-### 🛠️ **3. API Testing Tools**
+ API Testing Tools**
 
 Used to test endpoints, performance, and security.
 
@@ -44,9 +42,7 @@ Used to test endpoints, performance, and security.
 * **Swagger UI** – Auto-generates documentation and allows live testing.
 * **Curl (Command Line)** – For quick testing in terminal.
 
----
-
-### 📁 **4. API Documentation Tools**
+- API Documentation Tools**
 
 Essential for maintaining and sharing API usage instructions.
 
@@ -55,8 +51,7 @@ Essential for maintaining and sharing API usage instructions.
 * **Slate** – API doc generator that creates beautiful docs.
 
 ---
-
-### 🔐 **5. Authentication Tools**
+. Authentication Tools**
 
 Used to secure your API.
 
@@ -65,8 +60,7 @@ Used to secure your API.
 * **API Keys** – Simple key-based access control.
 
 ---
-
-### ⚙️ **6. Development and Deployment Tools**
+. Development and Deployment Tools**
 
 Help write, debug, and deploy the API.
 
@@ -76,8 +70,7 @@ Help write, debug, and deploy the API.
 * **CI/CD Tools** – Jenkins, GitHub Actions, or GitLab CI for automation.
 
 ---
-
-### 📊 **7. Monitoring & Analytics Tools**
+ Monitoring & Analytics Tools**
 
 Keep an eye on API health and usage.
 
@@ -86,8 +79,7 @@ Keep an eye on API health and usage.
 * **Sentry** – Error tracking and reporting.
 
 ---
-
-### 📦 **8. Databases**
+ Databases**
 
 APIs typically interact with a database.
 
@@ -97,7 +89,7 @@ APIs typically interact with a database.
 
 ---
 
-## 🧱 Steps in API Project Development
+## Steps in API Project Development
 
 Here's a high-level workflow for developing an API project:
 
@@ -126,5 +118,8 @@ Here's a high-level workflow for developing an API project:
 ### 5. **Test the API
 
 ### 6. **Document the API**
+#OUTPUT FOR THIS PROJECT 
+![image](https://github.com/user-attachments/assets/42219784-e22c-4574-9391-74f592b3cda2)
 
 
+##
