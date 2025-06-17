@@ -119,4 +119,5 @@ Here's a high-level workflow for developing an API project:
 
 ### 6. **Document the API**
 #OUTPUT FOR THIS PROJECT
+![Image](https://github.com/user-attachments/assets/18fab6b8-8fa9-42be-8651-a1487593214e)
 
